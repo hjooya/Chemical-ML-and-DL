@@ -7,7 +7,7 @@ The goal of this example is to analyze the [Tanimoto similarity](https://www.rdk
 The image below shows the similarity distribution amoung the positive and negative molecules in this dataset. Noticablly, the negative molecules have higher similarities compared to the positive sub-dataset.      
 
 ![alt text](<p align="center">
-  <img src="https://github.com/hjooya/Chemical-ML-and-DL/blob/main/GCN_Mutagenicity_Classification/GCN_Mutagenicity_Results.jpg" />
+  <img src="https://github.com/hjooya/Chemical-ML-and-DL/blob/main/Tox21_Similarity_Distribution.jpg" />
 </p>
 
 
