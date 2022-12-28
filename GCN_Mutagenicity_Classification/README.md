@@ -8,9 +8,8 @@ Simply move all MATLAB and Python functions to one folder, and run `MATLAB_Pytho
 
 
 <p align="center">
-  <img src="[http://some_place.com/image.png](https://github.com/hjooya/Chemical-ML-and-DL/blob/main/GCN_Mutagenicity_Classification/AMES_Training_Performance.jpg)" />
+  <img src="https://github.com/hjooya/Chemical-ML-and-DL/blob/main/GCN_Mutagenicity_Classification/AMES_Training_Performance.jpg" />
 </p>
-
 
 ![alt text](https://github.com/hjooya/Chemical-ML-and-DL/blob/main/GCN_Mutagenicity_Classification/AMES_Training_Performance.jpg)
 
