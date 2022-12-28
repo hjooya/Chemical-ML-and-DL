@@ -11,8 +11,9 @@ Simply move all MATLAB and Python functions to one folder, and run `MATLAB_Pytho
   <img src="https://github.com/hjooya/Chemical-ML-and-DL/blob/main/GCN_Mutagenicity_Classification/AMES_Training_Performance.jpg" />
 </p>
 
-![alt text](https://github.com/hjooya/Chemical-ML-and-DL/blob/main/GCN_Mutagenicity_Classification/AMES_Training_Performance.jpg)
+<p align="center">
+  <img src="https://github.com/hjooya/Chemical-ML-and-DL/blob/main/GCN_Mutagenicity_Classification/AMES_Test_Results.jpg" />
+</p>
 
-![alt text](https://github.com/hjooya/Chemical-ML-and-DL/blob/main/GCN_Mutagenicity_Classification/AMES_Test_Results.jpg)
 
 
