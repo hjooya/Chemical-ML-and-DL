@@ -7,14 +7,8 @@ The Ames test is a bacterial short-term test for identification of carcinogens u
 Simply move all MATLAB and Python functions to one folder, and run `MATLAB_Python_GCN_Classification.mlx`. You may use [Experiemnt Manager](https://www.mathworks.com/help/deeplearning/ref/experimentmanager-app.html) to optimize training parameters and network design. See this [video](https://www.mathworks.com/videos/how-to-set-up-your-own-deep-learning-experiments-1601541179542.html) to learn how to set up your deep learning experiments. The current set up should give a result like below:
 
 
-<p align="center">
-    <img width="600" height="200" src="[https://www.python.org/python-.png](https://github.com/hjooya/Chemical-ML-and-DL/blob/main/GCN_Mutagenicity_Classification/AMES_Training_Performance.jpg)">
-
 ![alt text](https://github.com/hjooya/Chemical-ML-and-DL/blob/main/GCN_Mutagenicity_Classification/AMES_Training_Performance.jpg)
-</p>
 
-<p align="center">
 ![alt text](https://github.com/hjooya/Chemical-ML-and-DL/blob/main/GCN_Mutagenicity_Classification/AMES_Test_Results.jpg)
-</p>
 
 
