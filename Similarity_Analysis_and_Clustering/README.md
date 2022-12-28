@@ -6,6 +6,8 @@ The goal of this example is to analyze the [Tanimoto similarity](https://www.rdk
 
 The image below shows the similarity distribution amoung the positive and negative molecules in this dataset. Noticablly, the negative molecules have higher similarities compared to the positive sub-dataset.      
 
-![alt text](https://github.com/hjooya/Chemical-Theory-and-Computation/blob/main/Graph%20Theoretical%20Approach%20to%20Multiphoton%20Absorption%20Spectra/AMES_Test_Results.jpg)
+![alt text](<p align="center">
+  <img src="https://github.com/hjooya/Chemical-ML-and-DL/blob/main/GCN_Mutagenicity_Classification/GCN_Mutagenicity_Results.jpg" />
+</p>
 
 
