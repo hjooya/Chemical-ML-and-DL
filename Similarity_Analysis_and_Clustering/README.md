@@ -8,6 +8,6 @@ The image below shows the similarity distribution amoung the positive and negati
 
 
 <p align="center">
-  <img src="https://github.com/hjooya/Chemical-ML-and-DL/blob/main/Tox21_Similarity_Distribution.jpg" />
+  <img src="https://github.com/hjooya/Chemical-ML-and-DL/blob/main/Similarity_Analysis_and_Clustering/Tox21_Similarity_Distribution.jpg" />
 </p>
 
