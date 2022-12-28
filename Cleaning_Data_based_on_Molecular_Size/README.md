@@ -6,8 +6,13 @@ This Jupyter notebook takes the original AMES dataset and divides and saves it i
 
 As shown in the following histogram, about 98% of molecules have less than 40 atoms. One ,therefore, may decide to clean this dataset by removing the larger molecules. This maybe particularly helpful when working with shallow graph neural networks.
 
+
 <p align="center">
-  <img src="https://github.com/hjooya/Chemical-ML-and-DL/tree/main/Cleaning_Data_based_on_Molecular_Size/AMES_Size_Distribution.jpg" />
+  <img src="https://github.com/hjooya/Chemical-ML-and-DL/blob/main/Cleaning_Data_based_on_Molecular_Size/AMES_Size_Distribution.jpg" />
 </p>
 
+
+<p align="center">
+  <img src="https://github.com/hjooya/Chemical-ML-and-DL/blob/main/GCN_Mutagenicity_Classification/GCN_Mutagenicity_Results.jpg" />
+</p>
 
