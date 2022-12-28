@@ -8,12 +8,7 @@ Simply move all MATLAB and Python functions to one folder, and run `MATLAB_Pytho
 
 
 <p align="center">
-  <img src="https://github.com/hjooya/Chemical-ML-and-DL/blob/main/GCN_Mutagenicity_Classification/AMES_Training_Performance.jpg" />
+  <img src="https://github.com/hjooya/Chemical-ML-and-DL/blob/main/GCN_Mutagenicity_Classification/GCN_Mutagenicity_Results.jpg" />
 </p>
-
-<p align="center">
-  <img src="https://github.com/hjooya/Chemical-ML-and-DL/blob/main/GCN_Mutagenicity_Classification/AMES_Test_Results.jpg" />
-</p>
-
 
 
