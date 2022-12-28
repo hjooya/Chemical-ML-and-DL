@@ -10,4 +10,8 @@ As shown in the following histogram, about 98% of molecules have less than 40 at
 
 ![alt text](https://github.com/hjooya/Chemical-Theory-and-Computation/blob/main/Graph%20Theoretical%20Approach%20to%20Multiphoton%20Absorption%20Spectra/AMES_Test_Results.jpg)
 
+<p align="center">
+  <img src="https://github.com/hjooya/Chemical-ML-and-DL/blob/main/GCN_Mutagenicity_Classification/GCN_Mutagenicity_Results.jpg" />
+</p>
+
 
