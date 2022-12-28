@@ -4,7 +4,7 @@ The [Ames test](https://www.sciencedirect.com/topics/pharmacology-toxicology-and
 
 This Jupyter notebook takes the original AMES dataset and divides and saves it in smaller clusters based on number of atoms in each molecule. 
 
-As shown in the following histogram, about 98% of molecules have less than 40 atoms. One ,therefore, may decide to clean this dataset by removing the larger molecules. This maybe particularly helpful when working with shallow graph neural networks.
+As shown in the following histogram, about 98% of molecules have less than 40 atoms. One ,therefore, may decide to clean this dataset by removing the larger molecules (truncated dataset is provided). This maybe particularly helpful when working with shallow graph neural networks.
 
 
 <p align="center">
