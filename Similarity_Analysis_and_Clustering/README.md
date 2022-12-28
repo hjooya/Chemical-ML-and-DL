@@ -4,7 +4,7 @@ Toxicology in the 21st Century ([Tox21](https://ntp.niehs.nih.gov/whatwestudy/to
 
 The goal of this example is to analyze the [Tanimoto similarity](https://www.rdkit.org/docs/GettingStartedInPython.html) of the positive and negative molecules in this dataset using [RDKit](https://www.rdkit.org/), and cluster them based on their similarity. Sample molecules are visualized from the selected clusters.  
 
-The image below shows the similarity distribution amoung the positive and negative molecules in this dataset. Noticablly, the negative molecules have higher similarities compared to the positive sub-dataset.      
+The image below shows the similarity distribution amoung the positive and negative molecules in this dataset. Noticablly, the negative molecules have higher pairwise similarities compared to the positive sub-dataset.      
 
 
 <p align="center">
