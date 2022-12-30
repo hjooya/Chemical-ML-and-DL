@@ -1,7 +1,7 @@
 ### Similarity Analysis, Clustering and Visualization of Tox21 Dataset 
 
 <p align="center">
-  <img src="https://github.com/hjooya/Chemical-ML-and-DL/blob/main/Similarity_Analysis_and_Clustering/Tox21_Similarity_Distribution.jpg" width="200" height="200" />
+  <img src="https://github.com/hjooya/Chemical-ML-and-DL/blob/main/Similarity_Analysis_and_Clustering/Tox21_Similarity_Distribution.jpg" width="500" height="400" />
 </p>
 
 Toxicology in the 21st Century ([Tox21](https://ntp.niehs.nih.gov/whatwestudy/tox21/index.html)) program is a collaboration between several federal agencies (NIH, FDA, EPA) to rapidly test whether substances adversely affect human health. Substances assayed in Tox21 include a diverse range of products such as: commercial chemicals, pesticides, food additives/contaminants, and medical compounds. [Tox21 dataset](https://tripod.nih.gov//tox21/pubdata/) is publically available. 
